@@ -1,4 +1,7 @@
-[![459x459](https://media.giphy.com/media/Ii3VY9rN94TMVVtyn6/source.gif "Abdulhamit Akaslan")](https://github.com/hamitaksln)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/NKEt9elQ5cR68/source.gif">
+  </div>
 
 <!--
 **hamitaksln/hamitaksln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

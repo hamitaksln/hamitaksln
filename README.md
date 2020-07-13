@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![1000x420](https://media.giphy.com/media/lkceXNDw4Agryfrwz8/source.gif "Abdulhamit Akaslan")](https://github.com/hamitaksln)
 
 <!--
 **hamitaksln/hamitaksln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
